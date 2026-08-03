@@ -16,7 +16,7 @@ st.set_page_config(
 # LOAD DATA
 # -----------------------------------------------------
 
-df = pd.read_csv("cleaned_data.csv")
+df = pd.read_csv("notebook/cleaned_data.csv")
 
 # -----------------------------------------------------
 # CUSTOM CSS
