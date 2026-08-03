@@ -34,11 +34,6 @@ APL Logistics Dataset
 
 ---
 
-## 📸 Dashboard Preview
-
-(Add screenshots here)
-
----
 
 ## ▶️ Run Locally
 
